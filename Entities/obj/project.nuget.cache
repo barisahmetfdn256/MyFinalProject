@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "HShMQ2MA8oIr8p+qUUBQJgtKSeUvMdIvkEyP6NJgC4Eze1lhJEUOBU5gdomwhk0sEbo1/T2k4sWZuGUR2+IO4A==",
+  "dgSpecHash": "3nXcvC5Z43Kk+cD9HmU3jZFJrP1wHV7JsBaCxorojlffkP3uwluqNwx8EgicxDNmIyGci3/Ottu67s+0AUNb4A==",
   "success": true,
   "projectFilePath": "C:\\Users\\ENIGMA\\source\\repos\\MyFinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
@@ -101,7 +101,10 @@
     "C:\\Users\\ENIGMA\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ENIGMA\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\ENIGMA\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\ENIGMA\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    "C:\\Users\\ENIGMA\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512",
+    "C:\\Users\\ENIGMA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\ENIGMA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ENIGMA\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
