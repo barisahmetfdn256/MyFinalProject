@@ -1,3 +1,8 @@
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.exe
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.deps.json
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.runtimeconfig.json
@@ -5,6 +10,11 @@ C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.dll
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ref\ConsoleUI.dll
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\ConsoleUI.pdb
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.dll
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\FluentValidation.dll
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
@@ -51,11 +61,6 @@ C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Business.
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\DataAccess.pdb
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Entities.pdb
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\bin\Debug\net5.0\Core.pdb
-C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.AssemblyReference.cache
-C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfoInputs.cache
-C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.AssemblyInfo.cs
-C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CoreCompileInputs.cache
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.csproj.CopyComplete
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ConsoleUI.dll
 C:\Users\ENIGMA\source\repos\MyFinalProject\ConsoleUI\obj\Debug\net5.0\ref\ConsoleUI.dll

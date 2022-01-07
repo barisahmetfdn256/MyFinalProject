@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "NC+f65+Cr2ez18byHiP5LpQApaX3SqUDwiD/xn14ZPCCtFGFuq0nTqVJQArvhA+J/E7xzXAirLrL/vLLAJKuHw==",
+  "dgSpecHash": "7DeqTzpRbCiroSRoVF/J/ikkBSNMNhYk9+HrriWCY4+AhVadHJa9Hgi4pZvlAyMUtfYg0cTEAddFX+zOMg/Mog==",
   "success": true,
   "projectFilePath": "C:\\Users\\ENIGMA\\source\\repos\\MyFinalProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ENIGMA\\.nuget\\packages\\autofac\\6.3.0\\autofac.6.3.0.nupkg.sha512",
+    "C:\\Users\\ENIGMA\\.nuget\\packages\\autofac.extensions.dependencyinjection\\7.2.0\\autofac.extensions.dependencyinjection.7.2.0.nupkg.sha512",
     "C:\\Users\\ENIGMA\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
     "C:\\Users\\ENIGMA\\.nuget\\packages\\castle.core\\4.4.0\\castle.core.4.4.0.nupkg.sha512",
     "C:\\Users\\ENIGMA\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
